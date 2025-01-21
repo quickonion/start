@@ -6,6 +6,8 @@ A fast and simple tool to create your Tor hidden service in seconds.
 
 ```bash
 su root
+```
+```bash
 apt install git
 git clone https://github.com/quickonion/start.git
 cd start
