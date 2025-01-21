@@ -46,3 +46,5 @@ hooty
 ## ⚠️ Disclaimer
 
 This tool is for educational and legitimate purposes only. Users are responsible for complying with applicable laws and regulations.
+
+![Views](https://views.whatilearened.today/views/github/quickonion/start.svg)
