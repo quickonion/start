@@ -18,7 +18,6 @@ chmod +x quickonion
 ## 📋 Requirements
 
 - Debian-based system (Debian, Ubuntu, Kali, etc.)
-- Root access (sudo)
 - Internet connection
 
 ## ⚙️ Features
@@ -39,10 +38,6 @@ QuickOnion handles all the complex configurations securely:
 ## 💡 Note
 
 The tool will automatically install required dependencies (Tor and Apache2) during execution.
-
-## 📝 License
-
-MIT License
 
 ## 👤 Created by
 
